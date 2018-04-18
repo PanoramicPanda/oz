@@ -1,6 +1,10 @@
 class HomePage < DDBRootPage
   add_id_element(:link, /READ MORE/, xpath: '/html/body/div[1]/div/div[2]/div/section/div/div[1]/div[1]/div/div/ul/li[1]/article/div/div[3]/div[4]/a')
 
+  def create_elements
+
+  end
+
   def on_page_load
     super
     perform_sign_in unless @world.ledger.logged_in
