@@ -1,9 +1,3 @@
-INPUT_DATA:
-  DEFAULT:
-    :submit_log_in_button: #This is here so that DEFAULT is nothing
-  TWITCH_LOGIN:
-    :username_text_field: 'PLACEHOLDER - Never stick this on GitHub/Anywhere Public'
-    :password_text_field: 'PLACEHOLDER - Seriously - you should not stick this online'
 EXPECTED_DATA:
   DEFAULT:
     :my_content_button:

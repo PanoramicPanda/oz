@@ -8,6 +8,3 @@ results.json
 #Oz output files
 debug.log
 page_graph.dot
-
-#Login Details
-DDB/pages/home_page.yml
