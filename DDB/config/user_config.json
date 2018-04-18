@@ -1,0 +1,11 @@
+{
+  "TEST_ENVIRONMENT": "default",
+  "LOG_LEVEL": "ACTION",
+  "BROWSER": "chrome",
+  "CREATE_DOT_GRAPH": true,
+  "MAXIMIZE_BROWSER": true,
+  "CLOSE_BROWSER": false,
+  "PRINT_LEDGER": true,
+  "HEADLESS_CHROME": false,
+  "FLASH_VALIDATION": false
+}
